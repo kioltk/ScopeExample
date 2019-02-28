@@ -1,0 +1,6 @@
+framework module Pods_ScopeExamle {
+  umbrella header "Pods-ScopeExamle-umbrella.h"
+
+  export *
+  module * { export * }
+}
